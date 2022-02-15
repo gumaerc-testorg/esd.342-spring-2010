@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information related to basic network metrics
   and operations. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-342-network-representations-of-complex-engineering-systems-spring-2010/4619e02fd83344d1ff1d22a6b9ca72d6_MITESD_342S10_lec06.pdf
+file: /media/courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/4619e02fd83344d1ff1d22a6b9ca72d6_MITESD_342S10_lec06.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MITESD_342S10_lec06.pdf
 uid: 4619e02f-d833-44d1-ff1d-22a6b9ca72d6

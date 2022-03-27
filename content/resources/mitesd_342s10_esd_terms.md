@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a5f36dce-afd1-24d9-ebd5-b7332afacaa2
 resourcetype: Document
 title: MITESD_342S10_ESD_terms.pdf
 uid: 5f133311-a058-5126-1aab-12220f0abb7a

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a5f36dce-afd1-24d9-ebd5-b7332afacaa2
 resourcetype: Document
 title: MITESD_342S10_ntwk_models.pdf
 uid: 7495b1cd-93b6-af9a-2bf0-8c530e3cebeb

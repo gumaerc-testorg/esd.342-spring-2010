@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: e619ba5c-0e13-ed08-ccda-ac397ba668dd
 resourcetype: Document
 title: ucinet_slides.pdf
 uid: df0bdfe5-c3e4-8c5e-09bd-5ba681558ffb

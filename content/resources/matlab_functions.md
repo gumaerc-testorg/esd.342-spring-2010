@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: e619ba5c-0e13-ed08-ccda-ac397ba668dd
 resourcetype: Other
 title: matlab_functions.zip
 uid: a017a9ee-0b35-d9f6-a3e8-2df7df63a90d

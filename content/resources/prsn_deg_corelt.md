@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: e619ba5c-0e13-ed08-ccda-ac397ba668dd
 resourcetype: Other
 title: prsn_deg_corelt.zip
 uid: 184928a9-b83b-127d-2b5a-b4833c447492

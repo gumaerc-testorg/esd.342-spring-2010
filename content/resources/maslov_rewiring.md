@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: e619ba5c-0e13-ed08-ccda-ac397ba668dd
 resourcetype: Other
 title: maslov_rewiring.zip
 uid: 1214fcfb-9ba9-32a6-b1c5-9f003c5b6267

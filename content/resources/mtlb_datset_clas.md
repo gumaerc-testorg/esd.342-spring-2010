@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: e619ba5c-0e13-ed08-ccda-ac397ba668dd
 resourcetype: Other
 title: mtlb_datset_clas.zip
 uid: ffc351ed-0015-720f-b65d-cf4e475b0627

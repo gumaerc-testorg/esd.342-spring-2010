@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: e619ba5c-0e13-ed08-ccda-ac397ba668dd
 resourcetype: Document
 title: matlab_slides.pdf
 uid: b493a721-6fe3-63cf-43ad-9252c79de7fd

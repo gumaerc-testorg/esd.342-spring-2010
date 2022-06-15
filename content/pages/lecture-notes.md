@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section contains selected lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 9034ce4c-0cde-a210-72bb-1f5d55510146
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains selected lecture notes.
@@ -33,7 +38,7 @@ FILES
 Introduction and objectives
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_342s10_lec01))
+({{% resource_link a37932cd-2b93-f6d8-99e2-25cb8a0c14f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +50,7 @@ Introduction and objectives
 Basic foundations for course emphasizing ways of thinking and biases
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_342s10_lec02))
+({{% resource_link ee979655-d16d-dc59-f41f-9986a76d952e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +62,7 @@ Basic foundations for course emphasizing ways of thinking and biases
 Introduction to graphs, networks, hierarchies, and DSM's
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mitesd_342s10_lec03))
+({{% resource_link f7adb9af-ad12-f2ea-1d8b-b81a476b7969 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +74,7 @@ Introduction to graphs, networks, hierarchies, and DSM's
 MATLAB® and network representations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_342s10_lec04))
+({{% resource_link b2547b4b-a1fe-23c3-0eaa-c04db9649e88 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +86,7 @@ MATLAB® and network representations
 Basic network metrics and operations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7MB]({{< baseurl >}}/resources/mitesd_342s10_lec06))
+({{% resource_link 4619e02f-d833-44d1-ff1d-22a6b9ca72d6 "PDF - 1.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +98,7 @@ Basic network metrics and operations
 Quantitative network fundamentals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_342s10_lec07))
+({{% resource_link f530ebd6-db67-d41c-59df-260a8b17f30b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +110,7 @@ Quantitative network fundamentals
 Canonical structures and their organizational implications
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_342s10_lec08))
+({{% resource_link 5c5b67ad-949c-857a-0932-e37036533a63 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +122,7 @@ Canonical structures and their organizational implications
 Constraints
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mitesd_342s10_lec10))
+({{% resource_link 91c2c36d-42b3-279b-ce36-9c821af6c3e9 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +134,7 @@ Constraints
 Network observational methods and quantitative metrics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.2MB]({{< baseurl >}}/resources/mitesd_342s10_lec11))
+({{% resource_link be0777f2-3afa-f40a-77c2-8d5feacb4b20 "PDF - 2.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +146,7 @@ Network observational methods and quantitative metrics
 Random networks
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.6MB]({{< baseurl >}}/resources/mitesd_342s10_lec13))
+({{% resource_link 2494b880-6026-0e2f-9661-bea27ef072e9 "PDF - 1.6MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +158,7 @@ Random networks
 Decomposition methods and modeling framework
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.8MB]({{< baseurl >}}/resources/mitesd_342s10_lec14))
+({{% resource_link 19d2743f-e295-ce8f-aa0b-7ca51172903e "PDF - 1.8MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +170,7 @@ Decomposition methods and modeling framework
 Affiliation networks
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_342s10_lec15))
+({{% resource_link d206a87e-d189-220f-e3e9-052e3ed45122 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +182,7 @@ Affiliation networks
 Scaling and allometry as constraints
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0MB]({{< baseurl >}}/resources/mitesd_342s10_lec17))
+({{% resource_link 480c3d51-7e2e-202b-20c0-f698530db196 "PDF - 1.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +194,7 @@ Scaling and allometry as constraints
 Organizational structures
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_342s10_lec18))
+({{% resource_link 09c66d0e-f546-8232-b59d-c55cd63543d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +206,7 @@ Organizational structures
 Advanced models of technological systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_342s10_lec19))
+({{% resource_link a3c8583b-d35b-0fba-3c9b-06ab5f43259f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +218,7 @@ Advanced models of technological systems
 Modeling organizational architecture
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_342s10_lec20))
+({{% resource_link b7f6d495-d2c7-e8a1-409d-f3fa15d8a865 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +230,7 @@ Modeling organizational architecture
 Role of materials innovation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_342s10_lec24))
+({{% resource_link be29b1c7-3859-e873-82d4-b297063f2ff2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

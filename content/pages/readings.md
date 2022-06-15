@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides information on the course textbook, a list of recommended
+  texts for background reading, and the schedule of readings by session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: a5f36dce-afd1-24d9-ebd5-b7332afacaa2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Background Reading
@@ -49,7 +55,7 @@ READINGS
 Introduction and objectives
 {{< tdclose >}}
 {{< tdopen >}}
-ESD Symposium Committee. "ESD Terms and Definitions (Version 16)." March 29, 2002. Updated February 4, 2007 for ESD.342. ([PDF]({{< baseurl >}}/resources/mitesd_342s10_esd_terms))
+ESD Symposium Committee. "ESD Terms and Definitions (Version 16)." March 29, 2002. Updated February 4, 2007 for ESD.342. ({{% resource_link 5f133311-a058-5126-1aab-12220f0abb7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,9 +71,9 @@ Basic foundations for course emphasizing ways of thinking and biases
 
 _Six Degrees_, chapters 1 and 2.
 
-Newman, M. E. J. "The Structure and Function of Complex Networks." _SIAM Review_ 45, no. 2 (2003): 167-256. Read sections I and II. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-personal.umich.edu/~mejn/courses/2004/cscs535/review.pdf))
+Newman, M. E. J. "The Structure and Function of Complex Networks." _SIAM Review_ 45, no. 2 (2003): 167-256. Read sections I and II. ([PDF](http://www-personal.umich.edu/~mejn/courses/2004/cscs535/review.pdf))
 
-Crawley, Edward, et al. "The Influence of Architecture in Engineering Systems." Cambridge, MA: MIT ESD Engineering Systems Monograph, March 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://esd.mit.edu/symposium/pdfs/monograph/architecture-b.pdf))
+Crawley, Edward, et al. "The Influence of Architecture in Engineering Systems." Cambridge, MA: MIT ESD Engineering Systems Monograph, March 2004. ([PDF](http://esd.mit.edu/symposium/pdfs/monograph/architecture-b.pdf))
 
 "Virtual Round Table on Ten Leading Questions for Network Research." _The European Phyiscal Journal_ _B_ 38 (2004): 143-145.
 
@@ -103,7 +109,7 @@ Strogatz, Steven H. "Exploring Complex Networks." _Nature_ 410 (2001): 268-276.
 MATLAB® and network representations
 {{< tdclose >}}
 {{< tdopen >}}
-Whitney, Daniel E. "Network Models and Basic Operations." Cambridge, MA: MIT Engineering Systems Division, 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitesd_342s10_ntwk_models))
+Whitney, Daniel E. "Network Models and Basic Operations." Cambridge, MA: MIT Engineering Systems Division, 2008. ({{% resource_link 7495b1cd-93b6-af9a-2bf0-8c530e3cebeb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +137,7 @@ Basic network metrics and operations
 
 Mahadevan, Priya, et al. "[The Internet AS-Level Topology: Three Data Sources and One Definitive Metric](http://cseweb.ucsd.edu/~vahdat/papers/jdd-ccr.pdf)." _ACM SIGCOMM Computer Communication Review_ 36, no. 1 (2006): 17-26.
 
-Whitney, Daniel E. "Basic Network Metrics." Cambridge, MA: MIT Engineering Systems Division, 2008. ([PDF]({{< baseurl >}}/resources/mitesd_342s10_ntwk_metrics))
+Whitney, Daniel E. "Basic Network Metrics." Cambridge, MA: MIT Engineering Systems Division, 2008. ({{% resource_link 923947b0-d195-d26b-1eaa-1001b3396184 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -147,7 +153,7 @@ Quantitative network fundamentals
 {{< tdopen >}}
 
 
-Newman, M. E. J. "The Structure and Function of Complex Networks." _SIAM Review_ 45, no. 2 (2003): 167-256. Read section III. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-personal.umich.edu/~mejn/courses/2004/cscs535/review.pdf))
+Newman, M. E. J. "The Structure and Function of Complex Networks." _SIAM Review_ 45, no. 2 (2003): 167-256. Read section III. ([PDF](http://www-personal.umich.edu/~mejn/courses/2004/cscs535/review.pdf))
 
 _Six Degrees_, chapters 3 and 4.
 
@@ -199,7 +205,7 @@ Whitney, Daniel E. "Physical Limits to Modularity." Cambridge, MA: MIT Engineeri
 Network observational methods and quantitative metrics
 {{< tdclose >}}
 {{< tdopen >}}
-Whitney, Daniel E., and David Alderson. "Are Technological and Social Networks Really Different?" Paper presented at the International Conference on Complex Systems, Boston, MA, June 25-30, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.necsi.edu/events/iccs6/papers/093d7139f769f5c9d1984fc225af.pdf))
+Whitney, Daniel E., and David Alderson. "Are Technological and Social Networks Really Different?" Paper presented at the International Conference on Complex Systems, Boston, MA, June 25-30, 2006. ([PDF](http://www.necsi.edu/events/iccs6/papers/093d7139f769f5c9d1984fc225af.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -227,7 +233,7 @@ Random networks
 
 _Six Degrees_, chapters 6, 7, and 8.
 
-Newman, M. E. J. "The Structure and Function of Complex Networks." _SIAM Review_ 45, no. 2 (2003): 167-256. Read section IV. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-personal.umich.edu/~mejn/courses/2004/cscs535/review.pdf))
+Newman, M. E. J. "The Structure and Function of Complex Networks." _SIAM Review_ 45, no. 2 (2003): 167-256. Read section IV. ([PDF](http://www-personal.umich.edu/~mejn/courses/2004/cscs535/review.pdf))
 
 Watts, Duncan. "[A Simple Model of Global Cascades on Random Networks](http://www.pnas.org/content/99/9/5766.full?sid=0216c8b0-e17a-47f2-9665-4da7f5b0a7d6)." _PNAS_ 99, no. 9 (2002): 5766-5771.
 
@@ -250,9 +256,9 @@ Milo, R., S. Shen-Orr, et al. "Network Motifs: Simple Building Blocks of Complex
 ###   
 Optional
 
-Itzkovitz, Shalev, et al. "Coarse-Graining and Self-Dissimilarity of Complex Networks." _Physical Review_ _E_ 71 (2005): 016127. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](http://www.weizmann.ac.il/mcb/UriAlon/sites/mcb.UriAlon/files/coarsegraining.pdf))
+Itzkovitz, Shalev, et al. "Coarse-Graining and Self-Dissimilarity of Complex Networks." _Physical Review_ _E_ 71 (2005): 016127. ([PDF](http://www.weizmann.ac.il/mcb/UriAlon/sites/mcb.UriAlon/files/coarsegraining.pdf))
 
-Newman, M. E. J., and M. Girvan. "Finding and Evaluating Community Structure in Networks." _Physical Review_ _E_ 69 (2004): 026113. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.69.026113))
+Newman, M. E. J., and M. Girvan. "Finding and Evaluating Community Structure in Networks." _Physical Review_ _E_ 69 (2004): 026113. ([PDF - 1.7MB](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.69.026113))
 
 Hsieh, Mo-Han, and Christopher L. Magee. "An Algorithm and Metric for Network Decomposition from Similarity Matrices: Application to Positional Analysis." _Social Networks_ 30 (2008): 146-158.
 
@@ -278,7 +284,7 @@ _Six Degrees_, chapter 5.
 
 ### Optional
 
-Kleinberg, Jon. "The Small-World Phenomenon: An Algorithmic Perspective." Proceedings of the 32nd ACM Symposium on Theory of Computing, 2000. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cs.cornell.edu/home/kleinber/swn.pdf))
+Kleinberg, Jon. "The Small-World Phenomenon: An Algorithmic Perspective." Proceedings of the 32nd ACM Symposium on Theory of Computing, 2000. ([PDF](http://www.cs.cornell.edu/home/kleinber/swn.pdf))
 
 
 {{< tdclose >}}
@@ -312,7 +318,7 @@ West, Geoffrey, James Brown, and Brian Enquist. "A General Model for the Origin 
 
 ### Optional
 
-Chave, Jerome, and Simon Levin. "Scale and Scaling in Ecological and Economic Systems." _Environmental and Resource Economics_ 26, no. 4 (2003): 527-557. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://link.springer.com/article/10.1023/B:EARE.0000007348.42742.49))
+Chave, Jerome, and Simon Levin. "Scale and Scaling in Ecological and Economic Systems." _Environmental and Resource Economics_ 26, no. 4 (2003): 527-557. ([PDF](https://link.springer.com/article/10.1023/B:EARE.0000007348.42742.49))
 
 
 {{< tdclose >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/4698ee8ffa9e2314717257ccd636a078_esd-342s10-th.jpg
+file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/4698ee8ffa9e2314717257ccd636a078_esd-342s10-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This network map depicts the research collaboration connections, or "neighborhood,"
@@ -14,4 +14,10 @@ ocw_type: OCWImage
 resourcetype: Image
 title: esd-342s10-th.jpg
 uid: 4698ee8f-fa9e-2314-7172-57ccd636a078
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+New image Upload
+

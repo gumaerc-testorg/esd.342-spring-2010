@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for Kleinberg Prestige Routine.
-file: /media/courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/dc0e6367a12075ba2320b44da9c4b8ea_kleinberg_prestige.m
+file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/dc0e6367a12075ba2320b44da9c4b8ea_kleinberg_prestige.m
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,5 @@ resourcetype: Other
 title: kleinberg_prestige.m
 uid: dc0e6367-a120-75ba-2320-b44da9c4b8ea
 ---
+This resource is a supporting file for Kleinberg Prestige Routine.
+

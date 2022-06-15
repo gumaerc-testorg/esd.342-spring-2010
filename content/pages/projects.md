@@ -1,10 +1,17 @@
 ---
 content_type: page
+description: This section provides information on the course project, including goals,
+  deliverables, the project proposal, final presentation objectives, and final report
+  content.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: 0f6bd634-3b2e-f1d8-19c2-f73ccec62d2f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Project Goals

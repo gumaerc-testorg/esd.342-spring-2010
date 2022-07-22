@@ -5,6 +5,7 @@ file: /courses/esd-342-network-representations-of-complex-engineering-systems-sp
 file_type: application/zip
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 19 .m files and 1 .mat file.
-

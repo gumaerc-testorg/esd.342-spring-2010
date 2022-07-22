@@ -5,6 +5,7 @@ file: /courses/esd-342-network-representations-of-complex-engineering-systems-sp
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: kleinberg_prestige.m
 uid: dc0e6367-a120-75ba-2320-b44da9c4b8ea
 ---
 This resource is a supporting file for Kleinberg Prestige Routine.
-

@@ -6,6 +6,7 @@ file: /courses/esd-342-network-representations-of-complex-engineering-systems-sp
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on UCINET basics, the UCINET environment, import data, export data, data processing, tips of using UCINET.
-

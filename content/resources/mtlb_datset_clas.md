@@ -2,6 +2,7 @@
 content_type: resource
 description: 'The Zip file contains: 2 .wk1 files and 1 .txt file.'
 file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/ffc351ed0015720fb65dcf4e475b0627_mtlb_datset_clas.zip
+file_size: 41938
 file_type: application/zip
 learning_resource_types:
 - Tools

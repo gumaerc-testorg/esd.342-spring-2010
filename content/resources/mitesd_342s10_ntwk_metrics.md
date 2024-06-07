@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to basic network metrics.  '
 file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/923947b0d195d26b1eaa1001b3396184_MITESD_342S10_ntwk_metrics.pdf
+file_size: 992644
 file_type: application/pdf
 learning_resource_types:
 - Readings

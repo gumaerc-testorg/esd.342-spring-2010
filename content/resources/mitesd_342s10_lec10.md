@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to constraints -I. '
-file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/91c2c36d42b3279bce369c821af6c3e9_MITESD_342S10_lec10.pdf
+file: /ol-ocw-studio-app/courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/91c2c36d42b3279bce369c821af6c3e9_MITESD_342S10_lec10.pdf
 file_size: 1310092
 file_type: application/pdf
 learning_resource_types:

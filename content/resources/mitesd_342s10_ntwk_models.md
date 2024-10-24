@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to network models and basic
   network operations.  '
-file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/7495b1cd93b6af9a2bf08c530e3cebeb_MITESD_342S10_ntwk_models.pdf
+file: /ol-ocw-studio-app/courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/7495b1cd93b6af9a2bf08c530e3cebeb_MITESD_342S10_ntwk_models.pdf
 file_size: 219829
 file_type: application/pdf
 learning_resource_types:

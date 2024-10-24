@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains organizational information about the course.  '
-file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/a37932cd2b93f6d899e225cb8a0c14f4_MITESD_342S10_lec01.pdf
+file: /ol-ocw-studio-app/courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/a37932cd2b93f6d899e225cb8a0c14f4_MITESD_342S10_lec01.pdf
 file_size: 228161
 file_type: application/pdf
 learning_resource_types:

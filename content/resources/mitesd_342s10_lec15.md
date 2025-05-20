@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to affiliation hierarchies. '
-file: /ol-ocw-studio-app/courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/d206a87ed189220fe3e9052e3ed45122_MITESD_342S10_lec15.pdf
+file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/d206a87ed189220fe3e9052e3ed45122_MITESD_342S10_lec15.pdf
 file_size: 432559
 file_type: application/pdf
 learning_resource_types:

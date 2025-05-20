@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 3 .m files and 1 .doc file.
-file: /ol-ocw-studio-app/courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/1214fcfb9ba932a6b1c59f003c5b6267_maslov_rewiring.zip
+file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/1214fcfb9ba932a6b1c59f003c5b6267_maslov_rewiring.zip
 file_size: 156947
 file_type: application/zip
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to networks in system architecture. '
-file: /ol-ocw-studio-app/courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/f7adb9afad12f2ea1d8bb81a476b7969_MITESD_342S10_lec03.pdf
+file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/f7adb9afad12f2ea1d8bb81a476b7969_MITESD_342S10_lec03.pdf
 file_size: 1181941
 file_type: application/pdf
 learning_resource_types:

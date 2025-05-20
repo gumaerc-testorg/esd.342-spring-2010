@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to basic network properties
   and how to calculate them. '
-file: /ol-ocw-studio-app/courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/b2547b4ba1fe23c30eaac04db9649e88_MITESD_342S10_lec04.pdf
+file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/b2547b4ba1fe23c30eaac04db9649e88_MITESD_342S10_lec04.pdf
 file_size: 420486
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 19 .m files and 1 .mat file.
-file: /ol-ocw-studio-app/courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/a017a9ee0b35d9f6a3e82df7df63a90d_matlab_functions.zip
+file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/a017a9ee0b35d9f6a3e82df7df63a90d_matlab_functions.zip
 file_size: 11588
 file_type: application/zip
 learning_resource_types:

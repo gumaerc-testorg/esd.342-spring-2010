@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to advanced models for technological
   systems.  '
-file: /ol-ocw-studio-app/courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/a3c8583bd35b0fba3c9b06ab5f43259f_MITESD_342S10_lec19.pdf
+file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/a3c8583bd35b0fba3c9b06ab5f43259f_MITESD_342S10_lec19.pdf
 file_size: 257385
 file_type: application/pdf
 learning_resource_types:

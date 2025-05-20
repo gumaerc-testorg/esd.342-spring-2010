@@ -4,7 +4,7 @@ description: 'This resource contains information on MatLab basics, working examp
   bike, graph representation in MatLab, graph diagnostics, graph properties, graph
   construction / structure, bike distribution random graphs, network visualization
   -Pajek.'
-file: /ol-ocw-studio-app/courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/b493a7216fe363cf43ad9252c79de7fd_matlab_slides.pdf
+file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/b493a7216fe363cf43ad9252c79de7fd_matlab_slides.pdf
 file_size: 399154
 file_type: application/pdf
 learning_resource_types:

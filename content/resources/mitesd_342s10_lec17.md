@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to scaling laws and constraints. '
-file: /ol-ocw-studio-app/courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/480c3d517e2e202b20c0f698530db196_MITESD_342S10_lec17.pdf
+file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/480c3d517e2e202b20c0f698530db196_MITESD_342S10_lec17.pdf
 file_size: 1089334
 file_type: application/pdf
 learning_resource_types:

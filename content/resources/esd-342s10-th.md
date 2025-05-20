@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/4698ee8ffa9e2314717257ccd636a078_esd-342s10-th.jpg
+file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/4698ee8ffa9e2314717257ccd636a078_esd-342s10-th.jpg
 file_size: 20239
 file_type: image/jpeg
 image_metadata:

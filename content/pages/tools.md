@@ -36,20 +36,20 @@ Note: always test a routine on a simple example for which you know already what 
 Mfinder
 -------
 
-Mfinder is a network motifs detection tool. Software, source code, a manual and supporting materials are available from [Uri Alon's homepage](http://www.weizmann.ac.il/mcb/UriAlon/), select the "Network Motif Software" link.
+Mfinder is a network motifs detection tool. Software, source code, a manual and supporting materials are available from {{% resource_link "c0b60f40-c663-4dd6-82ab-b8038e39c452" "Uri Alon's homepage" %}}, select the "Network Motif Software" link.
 
 Pajek
 -----
 
-[Pajek](http://vlado.fmf.uni-lj.si/pub/networks/pajek/) (Program for Large Network Analysis) is a free software package.
+{{% resource_link "babc5438-326a-4c93-8ff4-9e511215d8d5" "Pajek" %}} (Program for Large Network Analysis) is a free software package.
 
-*   Pajek Manual ([PDF](http://vlado.fmf.uni-lj.si/pub/networks/pajek/doc/pajekman.pdf))
-*   [Pajek Tutorials](http://vlado.fmf.uni-lj.si/pub/networks/pajek/howto.htm)
+*   Pajek Manual ({{% resource_link "9f6a3463-c899-4d37-aac6-03e7992c5ea2" "PDF" %}})
+*   {{% resource_link "51bef7e8-1eeb-44f2-b426-590132807c26" "Pajek Tutorials" %}}
 
 UCINET
 ------
 
-[UCINET](http://www.analytictech.com/ucinet/ucinet.htm) is a software package for the analysis of social network data as well as other 1-mode and 2-mode data.
+{{% resource_link "f068335d-b9d6-42d0-a401-c3fa51bbdd79" "UCINET" %}} is a software package for the analysis of social network data as well as other 1-mode and 2-mode data.
 
 *   UCINET Tutorial Slides ({{% resource_link df0bdfe5-c3e4-8c5e-09bd-5ba681558ffb "PDF - 2.9 MB" %}}) (Courtesy of Mo-Han Hsieh. Used with permission.)
-*   This downloadable book doubles as a user guide to UCINET software: Hanneman, R. A., and M. Riddle. [_Introduction to social network methods_](http://faculty.ucr.edu/~hanneman/nettext/).
+*   This downloadable book doubles as a user guide to UCINET software: Hanneman, R. A., and M. Riddle. {{% resource_link "aca04819-e349-4a8c-a8e9-15da706379e3" "_Introduction to social network methods_" %}}.
